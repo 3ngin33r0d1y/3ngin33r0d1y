@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @3ngin33r0d1y
-- 👀 I’m interested in Java Tech
-- 🌱 I’m currently learning Javascript , ReactJS , J2EE , IBM Websphere , JSP , JSF
-- 💞️ I’m looking to collaborate on Java Projects
+- 👀 I’m interested in Java Tech / Architecture 
+- 🌱 I’m working on : AWS , Openstack , Jenkins , Terraform , Ansible , Kubernetes , Docker
 - 📫 How to reach me : you dont , I Do
 
 <!---
